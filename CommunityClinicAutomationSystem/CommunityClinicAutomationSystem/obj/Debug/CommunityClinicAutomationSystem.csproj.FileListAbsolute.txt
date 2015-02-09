@@ -1,0 +1,40 @@
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+F:\SUBIR_1.02.2015\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+E:\Visual Studio Work\Final Projects\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\AspNet.ScriptManager.jQuery.dll
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - 02.02.15\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\AspNet.ScriptManager.jQuery.dll
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - First Project\Subir\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll.config
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\CommunityClinicAutomationSystem.pdb
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\bin\AspNet.ScriptManager.jQuery.dll
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.csprojResolveAssemblyReference.cache
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.dll
+D:\ASP CODE\JITU - First Project\Community Clinic Automation System\CommunityClinicAutomationSystem\CommunityClinicAutomationSystem\obj\Debug\CommunityClinicAutomationSystem.pdb
